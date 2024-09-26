@@ -34,6 +34,8 @@ dependencies:
   # Utility
   get_it: ^8.0.0
   talker_flutter: ^4.4.1
+  path: ^1.9.0
+  path_provider: ^2.1.4
 
   # UI
   cupertino_icons: ^1.0.8
